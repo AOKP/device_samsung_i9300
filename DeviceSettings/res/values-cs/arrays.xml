@@ -1,0 +1,48 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="vibrator_intensity_entries">
+    <item>0%</item>
+    <item>25%</item>
+    <item>50% (výchozí)</item>
+    <item>75%</item>
+    <item>100%</item>
+  </string-array>
+  <string-array name="hspa_entries">
+    <item>Pouze UMTS</item>
+    <item>Pouze HSDPA</item>
+    <item>HSDPA + HSUPA</item>
+  </string-array>
+  <string-array name="mdnie_scenario_entries">
+    <item>CyanogenMod (výchozí)</item>
+    <item>UI</item>
+    <item>Video</item>
+    <item>Teplé video</item>
+    <item>Studené video</item>
+    <item>Fotoaparát</item>
+    <item>Navigace</item>
+    <item>Galerie</item>
+    <item>VT</item>
+  </string-array>
+  <string-array name="mdnie_mode_entries">
+    <item>Dynamický (výchozí)</item>
+    <item>Standardní</item>
+    <item>Přirozený</item>
+    <item>Film</item>
+  </string-array>
+  <string-array name="mdnie_negative_entries">
+    <item>Normální</item>
+    <item>Invertovaný</item>
+  </string-array>
+  <string-array name="led_fade_entries">
+    <item>Blikání</item>
+    <item>Stmívání</item>
+  </string-array>
+  <string-array name="touchkey_timeout_entries">
+    <item>Nikdy</item>
+    <item>1 sekunda</item>
+    <item>2 sekundy</item>
+    <item>3 sekundy (výchozí)</item>
+    <item>4 sekundy</item>
+    <item>5 sekund</item>
+    <item>6 sekund</item>
+  </string-array>   
+</resources>
