@@ -1,0 +1,56 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string-array name="vibrator_intensity_entries">
+        <item>0%</item>
+        <item>25%</item>
+        <item>50% (デフォルト)</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+
+    <string-array name="hspa_entries">
+	    <item>UMTSのみ</item>
+	    <item>HSDPAのみ</item>
+	    <item>HSDPA + HSUPA</item>
+    </string-array>
+
+    <string-array name="mdnie_scenario_entries">
+        <item>CyanogenMod (デフォルト)</item>
+        <item>UI</item>
+        <item>ビデオ</item>
+        <item>ビデオ (ウォーム)</item>
+        <item>ビデオ (コールド)</item>
+        <item>カメラ</item>
+        <item>ナビゲーション</item>
+        <item>ギャラリー</item>
+        <item>VT</item>
+    </string-array>
+
+    <string-array name="mdnie_mode_entries">
+        <item>スタンダード (デフォルト)</item>
+        <item>ダイナミック</item>
+        <item>ナチュラル</item>
+        <item>ムービー</item>
+    </string-array>
+
+    <string-array name="mdnie_negative_entries">
+        <item>通常</item>
+        <item>反転</item>
+    </string-array>
+
+    <string-array name="led_fade_entries">
+        <item>点滅</item>
+        <item>フェード</item>
+    </string-array>
+
+    <string-array name="touchkey_timeout_entries">
+        <item>なし</item>
+        <item>1秒</item>
+        <item>2秒</item>
+        <item>3秒 (デフォルト)</item>
+        <item>4秒</item>
+        <item>5秒</item>
+        <item>6秒</item>
+    </string-array>
+
+</resources>
