@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Galaxy S III 設定</string>
+    <string name="app_name">デバイス設定</string>
+
+    <string name="category_dock_title">ドック</string>
+    <string name="dockaudio_subcat_title">ドックオーディオ</string>
+    <string name="use_dock_audio_title_head">ドックのUSBオーディオを使用</string>
+    <string name="use_dock_audio_summary_head">ドックのパッシブオーディオ出力を使用する</string>
 
     <string name="category_haptic_title">振動フィードバック</string>
     <string name="vibrator_subcat_title">バイブレーター</string>
