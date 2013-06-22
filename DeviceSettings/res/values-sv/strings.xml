@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Avancerade inställningar</string>
+
+    <string name="category_dock_title">Docka</string>
+    <string name="dockaudio_subcat_title">Docka Ljud</string>
+    <string name="use_dock_audio_title_head">Använd Docka för USB Ljud</string>
+    <string name="use_dock_audio_summary_head">Använd den passiva ljudutgång för docking</string>
+
+    <string name="category_haptic_title">Haptisk</string>
+    <string name="vibrator_subcat_title">Vibrator</string>
+    <string name="vibrator_intensity_title_head">Vibrator Intensitet</string>
+    <string name="vibrator_intensity_summary_head">Ställ vibrator intensitet</string>
+
+    <string name="category_radio_title">Radio</string>
+    <string name="hspa_title_head">HSPA</string>
+    <string name="hspa_summary_head">Aktivera HSDPA/HSUPA</string>
+
+    <string name="category_screen_title">Skärm</string>
+    <string name="mdnie_subcat_title">Färger</string>
+    <string name="mdnie_scenario_title_head">Scenario</string>
+    <string name="mdnie_scenario_summary_head">Ställ in mDNIe Scenario</string>
+    <string name="mdnie_mode_title_head">Läge</string>
+    <string name="mdnie_mode_summary_head">Ställ in mDNIe Läge</string>
+    <string name="mdnie_negative_title_head">Negativt Läge</string>
+    <string name="mdnie_negative_summary_head">Aktivera/Inaktivera inverterade färger</string>
+
+    <string name="led_subcat_title">Notifikations LED</string>
+    <string name="led_fade_title_head">LED Tona bort</string>
+    <string name="led_fade_summary_head">Aktivera LED för att tona bort mjukt istället för skarpa blinkande.</string>
+
+    <string name="touchkey_subcat_title">Touchtangenter</string>
+    <string name="touchkey_light_title_head">Bakgrundsbelysning</string>
+    <string name="touchkey_light_summary_off">Aktivera bakgrundsbelysning</string>
+    <string name="touchkey_light_summary_on">Avaktivera bakgrundsbelysning</string>
+    <string name="touchkey_timeout_title_head">Bakgrundsbelysning timeout</string>
+    <string name="touchkey_timeout_summary_head">Ange timeout för bakgrundsljus</string>
+
+</resources>
