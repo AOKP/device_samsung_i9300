@@ -7,6 +7,7 @@ rild.libpath=/system/lib/libsec-ril.so
 rild.libargs=-d /dev/ttyS0
 ro.sf.lcd_density=320
 ro.lcd_min_brightness=20
+persist.sys.alt.brightness.node=/sys/class/backlight/panel/auto_brightness
 
 # I9300 Hardware Info
 ro.device.chipset=Exynos 4412 Quad
