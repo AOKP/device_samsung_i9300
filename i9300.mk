@@ -31,12 +31,20 @@ PRODUCT_AAPT_PREF_CONFIG := xhdpi
 
 # Init files
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/fstab.smdk4x12:root/fstab.smdk4x12 \
-    $(LOCAL_PATH)/init.smdk4x12.rc:root/init.smdk4x12.rc
+    $(LOCAL_PATH)/rootdir/fstab.smdk4x12:root/fstab.smdk4x12 \
+    $(LOCAL_PATH)/rootdir/init.target.rc:root/init.target.rc
 
 # Audio
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/tiny_hw.xml:system/etc/sound/m0
+
+# Camera
+PRODUCT_PACKAGES += \
+    camera.smdk4x12
+
+# Sensors
+PRODUCT_PACKAGES += \
+    sensors.smdk4x12
 
 # Gps
 PRODUCT_COPY_FILES += \
@@ -47,7 +55,8 @@ PRODUCT_PACKAGES += \
     GalaxyS3Settings \
     libsecril-client \
     libsecril-client-sap \
-    SamsungServiceMode
+    SamsungServiceMode \
+    tinyplay
 
 # NFC
 PRODUCT_PACKAGES += \
